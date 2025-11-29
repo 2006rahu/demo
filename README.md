@@ -1,4 +1,4 @@
 # demo
 learn git
 <br>
-author - Rahul
+author - Rahul Patel
